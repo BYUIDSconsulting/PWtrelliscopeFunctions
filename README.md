@@ -3,7 +3,9 @@ A package to generate trelliscope displays.
 
 
 ## Heat Map Trelliscope
-using the `heatmap_trelliscope()` function you can create a trelliscope of heatmaps
+using the `heatmap_trelliscope()` function you can create a trelliscope of heatmaps.
+
+Here is an example using the gapminder dataset:
 
 ```
 heatmap_trelliscope(gapminder::gapminder, "continent",'year','country',"lifeExp")
