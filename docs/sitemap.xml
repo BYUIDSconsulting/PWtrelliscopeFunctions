@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/404.html</loc>
+  </url>
+  <url>
+    <loc>/authors.html</loc>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/heatmap_plot_func.html</loc>
+  </url>
+  <url>
+    <loc>/reference/heatmap_struc_func.html</loc>
+  </url>
+  <url>
+    <loc>/reference/heatmap_trelliscope.html</loc>
+  </url>
+  <url>
+    <loc>/reference/hello.html</loc>
+  </url>
+  <url>
+    <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/sankey_plot_func.html</loc>
+  </url>
+  <url>
+    <loc>/reference/sankey_trelliscope.html</loc>
+  </url>
+</urlset>

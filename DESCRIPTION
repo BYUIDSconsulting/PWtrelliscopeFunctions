@@ -1,0 +1,14 @@
+Package: PWtrelliscopeFunctions
+Type: Package
+Title: Create Trelliscopes about Homelessness Funding
+Version: 0.1.0
+Author: Chase Hatch, Becca Ebersole, Tyler Jones
+Maintainer: Tyler Jones <tymaxjones@gmail.com>
+Description: This Package will help in creating trelliscopes based on the 
+    homelessness dataset. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse,plotly,trelliscopejs,data.table
+Depends: tidyverse,plotly,trelliscopejs,data.table
+RoxygenNote: 7.1.1
