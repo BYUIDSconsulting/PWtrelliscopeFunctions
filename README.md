@@ -1,6 +1,12 @@
 # PW Trelliscope Functions
 A package to generate trelliscope displays.
 
+install with 
+
+```
+devtools::install_github("BYUIDSconsulting/PWtrelliscopeFunctions")
+```
+
 
 ## Heat Map Trelliscope
 using the `heatmap_trelliscope()` function you can create a trelliscope of heatmaps.
