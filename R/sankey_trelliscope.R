@@ -28,7 +28,7 @@ sankey_trelliscope <- function(data, facet, quant_variable, title = "Sankey", pa
   dat <- suppressWarnings(nest(dat, -facet))
 
   dat <- dat %>%
-    mutate(dat_plot = map2_plot(data, quant_variable, plot_sunburst))
+    mutate(dat_plot = map2_plot(data, quant_variable, sankey_plot_func))
 
   trel_sankey <- dat %>%
     drop_na() %>%
