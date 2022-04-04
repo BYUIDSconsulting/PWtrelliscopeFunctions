@@ -1,7 +1,8 @@
 # PW Trelliscope Functions
 A package to generate trelliscope displays.
 
-install with 
+
+## Installation
 
 ```
 devtools::install_github("BYUIDSconsulting/PWtrelliscopeFunctions")
