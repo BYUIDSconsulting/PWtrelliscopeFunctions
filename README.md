@@ -1,6 +1,12 @@
 # PW Trelliscope Functions
 A package to generate trelliscope displays.
 
+There are 4 main types of displays:
+* Heat Map
+* Sankey Chart
+* Tree Map
+* Sunburst Chart
+
 
 ## Installation
 
